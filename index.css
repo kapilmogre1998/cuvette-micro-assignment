@@ -9,6 +9,10 @@
     --medium-dark-gray: #484848
 }
 
+.container{
+    overflow: hidden;
+}
+
 .container main{
     background-color: #FFCD9E;
 }
